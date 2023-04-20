@@ -1,0 +1,5 @@
+init -> git init
+clone -> git clone [url]
+add -> git add . or [file]
+commit -> git commit -m "[message]"
+push -> git push
